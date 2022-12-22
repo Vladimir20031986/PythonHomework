@@ -24,3 +24,4 @@ for i in range(0, int(len(s)/2)):
     s1.append(res)
 
 print("Произведение пар чисел списка : ", s1)
+
